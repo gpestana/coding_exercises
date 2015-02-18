@@ -62,3 +62,4 @@ attempt = Solution()
 #print attempt.firstMissingPositive([-5,1000]) #1
 print attempt.firstMissingPositive([0]) #1
 #print attempt.firstMissingPositive([0,1,2]) #3
+print attempt.firstMissingPositive([3,4,6,2,1]) #5
